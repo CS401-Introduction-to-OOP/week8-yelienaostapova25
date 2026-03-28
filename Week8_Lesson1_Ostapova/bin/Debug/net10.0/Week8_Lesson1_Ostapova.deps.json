@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Week8_Lesson1_Ostapova/1.0.0": {
+        "runtime": {
+          "Week8_Lesson1_Ostapova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week8_Lesson1_Ostapova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

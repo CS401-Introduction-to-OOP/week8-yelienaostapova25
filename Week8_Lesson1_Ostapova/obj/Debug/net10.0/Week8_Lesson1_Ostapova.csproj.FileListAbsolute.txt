@@ -1,0 +1,14 @@
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/bin/Debug/net10.0/Week8_Lesson1_Ostapova
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/bin/Debug/net10.0/Week8_Lesson1_Ostapova.deps.json
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/bin/Debug/net10.0/Week8_Lesson1_Ostapova.runtimeconfig.json
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/bin/Debug/net10.0/Week8_Lesson1_Ostapova.dll
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/bin/Debug/net10.0/Week8_Lesson1_Ostapova.pdb
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.AssemblyInfoInputs.cache
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.AssemblyInfo.cs
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.csproj.CoreCompileInputs.cache
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.dll
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/refint/Week8_Lesson1_Ostapova.dll
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.pdb
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.genruntimeconfig.cache
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/ref/Week8_Lesson1_Ostapova.dll
