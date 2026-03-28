@@ -12,3 +12,4 @@
 /Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.pdb
 /Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.genruntimeconfig.cache
 /Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/ref/Week8_Lesson1_Ostapova.dll
+/Users/elenaostapova/RiderProjects/Week8_Lesson1_Ostapova/Week8_Lesson1_Ostapova/obj/Debug/net10.0/Week8_Lesson1_Ostapova.sourcelink.json
